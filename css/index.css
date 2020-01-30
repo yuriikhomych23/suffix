@@ -23,7 +23,13 @@
     background-color: black;
 }
 
-.first-section-title { 
+.first-section {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+}
+
+
+.first-section-date-text {
+ display: flex;
+ justify-content: space-between;
 }
