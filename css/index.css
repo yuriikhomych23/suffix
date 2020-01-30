@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header-title {
+    display: flex;
+    justify-content: space-around;
+}
+
+.philip-martin {
+    width: 50%;
+    height: 83.5vh;
+}
+
+.background-header-title {
+    width: 50%;
+    height: 83.5vh;
+    background-color: black;
+}
+
+.first-section-title { 
+    display: flex;
+    justify-content: space-between;
+}
