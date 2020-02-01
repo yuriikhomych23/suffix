@@ -23,6 +23,75 @@
     background-color: black;
 }
 
+.background-header-title-date-lifestyle {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+.background-header-title-date {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 7px;
+    color: #FFFFFF;
+}
+
+.background-header-title-lifestyle {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.background-header-title-text { 
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 42px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.background-header-title-text-minor {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.background-header-btn {
+    
+}
+
+.btn-read-more {
+    width: 198px;
+    height: 55px;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    border: 1px solid white;
+}
+
+
+
+
+
+
+
+
+
+
 .first-section {
     display: flex;
     justify-content: space-around;
@@ -135,6 +204,16 @@
     line-height: 51px;
     color: #FFFFFF;
     text-transform: uppercase;
+}
+
+.btn-suscribe-now {
+    width: 198px;
+    height: 42px;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    border: 1px solid white;
 }
 
 .second-section-image {
