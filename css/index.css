@@ -238,6 +238,7 @@ nav{
     width: 572px;
     height: 360px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -312,5 +313,18 @@ nav{
     height: 163px;
     margin-top: 100px;
     color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
+
+.interviews {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #1F1F1D;
+}
