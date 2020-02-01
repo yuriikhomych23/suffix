@@ -95,6 +95,7 @@
 .first-section {
     display: flex;
     justify-content: space-around;
+    margin: 111px 90px 0;
 }
 
 
@@ -149,6 +150,7 @@
 .first-section-part2 {
     display: flex;
     justify-content: space-around;
+    margin: 135px 114px 0;
 }
 
 .first-section-part2-date-lifestyle {
@@ -167,6 +169,13 @@
     color: #1F1F1D;
 }
 
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
 .btn-see-all {
     width: 238px;
     height: 42px;
@@ -174,17 +183,15 @@
     color: white;
     border: 1px solid white;
     text-transform: uppercase;
+    margin: 100px auto 0;
 }
 
-.btn {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 
 .second-section-header {
     display: flex;
     justify-content: space-evenly;
+    margin: 71px 65px 121px ;
 }
 
 .second-section-background-header {
@@ -219,6 +226,7 @@
 .second-section-image {
     display: flex;
     justify-content: space-around;
+    margin: auto 115px;
 }
 
 .date-interview {
@@ -251,6 +259,7 @@
 .section-third-image {
     display: flex;
     justify-content: space-around;
+    margin: 92px auto 0;
 }
 
 .date-news {
