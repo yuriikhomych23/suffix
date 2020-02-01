@@ -29,7 +29,154 @@
 }
 
 
-.first-section-date-text {
+.date-lifestyle {
  display: flex;
  justify-content: space-between;
 }
+
+.date {
+    width: 117px;
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 6px;
+    color: #000000;
+}
+
+.lifestyle {
+    width: 57px;
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+}
+
+
+.first-section-main-text {
+    width: 557px;
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #1F1F1D;
+}
+
+.first-section-minor-text {
+    width: 557px;
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    color: #1F1F1D;
+}
+
+.first-section-part2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.first-section-part2-date-lifestyle {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first-section-text-part2 {
+    width: 336px;
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #1F1F1D;
+}
+
+.btn-see-all {
+    width: 238px;
+    height: 42px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    text-transform: uppercase;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.second-section-header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.second-section-background-header {
+    background-color: black;
+    width: 572px;
+    height: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.issue {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 51px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.second-section-image {
+    display: flex;
+    justify-content: space-around;
+}
+
+.date-interview {
+    display: flex;
+    justify-content: space-between;
+}
+
+.interview {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+}
+
+.news {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: right;
+    text-decoration-line: underline;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+.section-third-image {
+    display: flex;
+    justify-content: space-around;
+}
+
+.date-news {
+    display: flex;
+    justify-content: space-between;
+}
+
+
