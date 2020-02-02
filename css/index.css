@@ -16,26 +16,26 @@ nav {
 }
 
 .dropdown {
-  position: relative;
-  top: 37px;
-  left: 47px;
-  display: inline-block;
-  tr
+    position: relative;
+    top: 37px;
+    left: 47px;
+    display: inline-block;
+
 }
 
 .dropdown-content {
-  display: none;
-  position: absolute;
-  width: 250px;
-  height: 250px;
-  z-index: 1;
-  background-color: white;
-  padding: 40px 50px;
+    display: none;
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    z-index: 1;
+    background-color: white;
+    padding: 40px 50px;
 }
 
 a {
     font-family: Kanit;
-    vfont-style: normal;
+    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -346,14 +346,12 @@ a {
 }
 
 .featured {
-    width: 100%;
-    margin: 90px 0 0 174px;
+    margin: 59px 0 0 174px;
     font-family: Kanit;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
     line-height: 27px;
     color: #1F1F1D;
-    text-decoration-line: underline;
     text-transform: uppercase;
 }
