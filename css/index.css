@@ -134,7 +134,7 @@ nav{
 .first-section {
     display: flex;
     justify-content: space-around;
-    margin: 111px 90px 0;
+    margin: 90px 147px;
 }
 
 
@@ -189,7 +189,7 @@ nav{
 .first-section-part2 {
     display: flex;
     justify-content: space-around;
-    margin: 135px 114px 0;
+    margin: 20px 147px;
 }
 
 .first-section-part2-date-lifestyle {
@@ -230,7 +230,7 @@ nav{
 .second-section-header {
     display: flex;
     justify-content: space-evenly;
-    margin: 71px 65px 121px ;
+    margin: 90px 147px;
 }
 
 .second-section-background-header {
@@ -266,7 +266,7 @@ nav{
 .second-section-image {
     display: flex;
     justify-content: space-around;
-    margin: auto 115px;
+    margin: auto 147px;
 }
 
 .date-interview {
@@ -299,7 +299,7 @@ nav{
 .section-third-image {
     display: flex;
     justify-content: space-around;
-    margin: 92px 115px 0;
+    margin: 90px 147px 0;
 }
 
 .date-news {
