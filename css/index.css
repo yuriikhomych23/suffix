@@ -9,7 +9,7 @@
 
 nav{
     width: 100%;
-    height: 163px;
+    height: 120px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +18,7 @@ nav{
 .icon-nav{
     position: absolute;
     left: 47px;
-    top: 59px;
+    top: 37px;
     font-size: 40px;
     border: 1px solid transparent;
     background-color: white;
@@ -62,7 +62,7 @@ nav{
     display: flex;
     justify-content: space-around;
     color: white;
-    margin: 100px 0 0 0;
+    margin: 100px auto 0;
 }
 
 .background-header-title-date {
@@ -107,9 +107,6 @@ nav{
     margin: 30px 136px 0;
 }
 
-.background-header-btn {
-    
-}
 
 .btn-read-more {
     width: 198px;
@@ -123,18 +120,10 @@ nav{
 }
 
 
-
-
-
-
-
-
-
-
 .first-section {
     display: flex;
     justify-content: space-around;
-    margin: 90px 147px;
+    margin: 30px 147px;
 }
 
 
@@ -222,7 +211,7 @@ nav{
     color: white;
     border: 1px solid white;
     text-transform: uppercase;
-    margin: 100px auto 0;
+    margin: 50px auto 0;
 }
 
 
@@ -230,7 +219,7 @@ nav{
 .second-section-header {
     display: flex;
     justify-content: space-evenly;
-    margin: 90px 147px;
+    margin: 30px 147px;
 }
 
 .second-section-background-header {
@@ -261,12 +250,25 @@ nav{
     text-transform: uppercase;
     text-align: center;
     border: 1px solid white;
+    margin-top: 10px;
 }
 
 .second-section-image {
     display: flex;
     justify-content: space-around;
-    margin: auto 147px;
+    margin: 80px 147px 0;
+}
+
+.interview-title {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #1F1F1D;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    margin: 40px 0 0 174px;
 }
 
 .date-interview {
@@ -299,7 +301,7 @@ nav{
 .section-third-image {
     display: flex;
     justify-content: space-around;
-    margin: 90px 147px 0;
+    margin: 30px 147px 0;
 }
 
 .date-news {
@@ -320,11 +322,26 @@ nav{
 }
 
 
-.interviews {
+.news-title {
+    margin: 40px 0 0 174px;
     font-family: Kanit;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
     line-height: 27px;
     color: #1F1F1D;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+}
+
+.lifestyle-title {
+    margin: 90px 0 0 174px;
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #1F1F1D;
+    text-decoration-line: underline;
+    text-transform: uppercase;
 }
