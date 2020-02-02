@@ -345,7 +345,8 @@ a {
     text-transform: uppercase;
 }
 
-.lifestyle-title {
+.featured {
+    width: 100%;
     margin: 90px 0 0 174px;
     font-family: Kanit;
     font-style: normal;
